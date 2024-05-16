@@ -8,10 +8,10 @@ Implementasi Sistem IoT untuk menyalakan dan mematikan keran otomatis menggunaka
 Implementasi sistem IoT (Internet of Things) untuk mengendalikan keran otomatis dengan sensor jarak adalah sebuah inovasi yang bertujuan meningkatkan efisiensi penggunaan air dan higienitas dalam berbagai lingkungan, seperti rumah tangga, perkantoran, dan fasilitas umum. Sistem ini menggunakan teknologi sensor jarak yang terintegrasi dengan jaringan IoT untuk mendeteksi ketinggian air dan mengaktifkan atau menonaktifkan aliran air secara otomatis.
 # Pembagian Tugas per Individu
 * Muhammad Rifan Fathoni
-  * Pembuat program master node
+  * Pembuat program edge node
   * Pembuat Manual Book
 * Achmad Nur Bani Suta
-   * Pembuat program edge node
+   * Pembuat program master node
    * pembuat implementasi platform iot
 * Muhammad Alpi Ashari
   * Perakit Master Node
