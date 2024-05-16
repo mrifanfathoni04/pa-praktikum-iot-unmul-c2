@@ -23,3 +23,6 @@ Implementasi sistem IoT (Internet of Things) untuk mengendalikan keran otomatis 
   * 1 x Servo
   * 1 x buzzer
   * 1 x sensor ultrasonik
+# Board Schematic
+![Screenshot 2024-05-16 220508](https://github.com/mrifanfathoni04/pa-praktikum-iot-unmul-c2/assets/143857517/dbb11c6c-da77-48fa-9314-1401d16f1b3c)
+![Screenshot 2024-05-16 221509](https://github.com/mrifanfathoni04/pa-praktikum-iot-unmul-c2/assets/143857517/16b2db70-4780-4419-941d-cdbe06247655)
